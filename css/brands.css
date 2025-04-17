@@ -591,3 +591,9 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+/* Rate Your Music */
+.button-rym {
+	--button-text:#ffffff;
+	--button-background:#5879ed;
+	--button-border:1px solid #FFFFFF;
+}
